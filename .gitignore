@@ -4,3 +4,9 @@ model_output_data/*
 # Unignore the specific file in the subdirectory
 !model_output_data/README.md
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
